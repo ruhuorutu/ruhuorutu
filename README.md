@@ -1,0 +1,2 @@
+# ruhuorutu
+my blog
